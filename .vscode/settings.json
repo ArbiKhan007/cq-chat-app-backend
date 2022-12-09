@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "prettier.quoteProps": "preserve"
+}
